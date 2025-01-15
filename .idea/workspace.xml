@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cca4a11-be4d-4195-85d5-5243e1570f6b" name="Changes" comment="" />
+    <list default="true" id="4cca4a11-be4d-4195-85d5-5243e1570f6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/Test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/Test/SubmitOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/TestComponent/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +41,23 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/UjianMinggu5"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\UjianMinggu5" />
+      <recent name="C:\Users\User\IdeaProjects\UjianMinggu5\src\test\java\com\myCompany\SwagLabs\Test" />
+      <recent name="C:\Users\User\IdeaProjects\UjianMinggu5\src\main\java\com\myCompany\SwagLabs\PageObjects" />
+      <recent name="C:\Users\User\IdeaProjects\UjianMinggu5\src\main\java\com\myCompany\PageObjects" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myCompany.SwagLabs.TestComponent" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

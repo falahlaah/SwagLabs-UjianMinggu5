@@ -4,7 +4,6 @@ import com.myCompany.SwagLabs.PageObjects.CartPage;
 import com.myCompany.SwagLabs.PageObjects.CheckOutPage;
 import com.myCompany.SwagLabs.PageObjects.HomePage;
 import com.myCompany.SwagLabs.TestComponent.BaseTest;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
