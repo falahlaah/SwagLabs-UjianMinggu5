@@ -106,6 +106,18 @@ public class SubmitOrderTest extends BaseTest {
         cartPage.removeProductFormCartbyName(targetRemoveProduct); // Hapus produk dari keranjang
         Assert.assertEquals(homePage.getCountProductCart(), "1"); // Verifikasi jumlah produk di keranjang
     }
+
+
+    @Test(dependsOnMethods = {"TC9_ValidateRemoveProductinCartPageSuccessfull"} )
+    public void TC10_ValidateCheckoutWithoutProductinCartFailed(){
+        String[] targetRemoveProduct = {"Sauce Labs Bike Light"};
+        CartPage cartPage = new CartPage(driver);
+        cartPage.removeProductFormCartbyName(targetRemoveProduct);
+        CheckOutPage checkOutPage = cartPage.goToCheckOut();
+        checkOutPage.validDataCheckout("Budi", "Pekerti", "123456");
+        checkOutPage.clickbtnFinish(); // Klik tombol "Finish"
+        Assert.assertEquals(checkOutPage.getConfirmationOrder(), "Error:No Product");
+    }
 }
 
 

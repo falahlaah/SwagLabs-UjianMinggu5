@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cca4a11-be4d-4195-85d5-5243e1570f6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/CheckOutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myCompany/SwagLabs/PageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/Test/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/Test/SubmitOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/TestComponent/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/Test/SubmitOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myCompany/SwagLabs/Test/SubmitOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;falahlaah&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/falahlaah/SwagLabs-UjianMinggu5.git&quot;,
+    &quot;accountId&quot;: &quot;7a60adad-9c3e-4cc5-b7c9-6733cd9163c6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2reUWnpQTJ6K0K8snMNRLiBeNq5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +43,10 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "TestNG.C:/Users/User/IdeaProjects/UjianMinggu5/testng.xml.executor": "Run",
+    "TestNG.SubmitOrderTest.TC9_ValidateRemoveProductinCartPageSuccessfull.executor": "Run",
+    "TestNG.SubmitOrderTest.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/IdeaProjects/UjianMinggu5"
   }
@@ -57,6 +61,31 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.myCompany.SwagLabs.TestComponent" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SubmitOrderTest.TC9_ValidateRemoveProductinCartPageSuccessfull" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UjianMinggu5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myCompany.SwagLabs.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myCompany.SwagLabs.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.myCompany.SwagLabs.Test.SubmitOrderTest" />
+      <option name="METHOD_NAME" value="TC9_ValidateRemoveProductinCartPageSuccessfull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SubmitOrderTest.TC9_ValidateRemoveProductinCartPageSuccessfull" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
